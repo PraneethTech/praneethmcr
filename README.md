@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Sai Praneeth</h1>
-<h3 align="center">React Native Developer| Dealing with MERN STACK|LAMP STACK|TECHEDEN 2.0 WINNER|SIH 2022 WINNER</h3>
+<h3 align="center">React Native Developer| Dealing with MERN STACK|LAMP STACK|SIH 2022 WINNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethmcr&label=Profile%20views&color=0e75b6&style=flat" alt="praneethmcr" /> </p>
 
